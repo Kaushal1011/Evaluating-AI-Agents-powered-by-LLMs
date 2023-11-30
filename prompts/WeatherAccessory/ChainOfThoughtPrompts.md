@@ -57,12 +57,11 @@ Consider the following data about weather conditions for the last 7 days:
 - Weather Conditions: ['Sunny', 'Rain', 'Rain', 'Snow', 'Rain', 'Rain', 'Rain']
 
 Rules:
-1. If the temperature is above 50°F, it cannot be snowing. In such cases, snow should be replaced with rain.
-2. The ideal accessory choice depends on the most common weather condition:
+1. The ideal accessory choice depends on the most common weather condition:
    - If it's mostly sunny, pick 'Sunscreen'.
    - If it's mostly raining, pick 'Umbrella'.
    - If it's mostly snowing, pick 'Snow Boots'.
-3. The ideal clothing choice depends on the average temperature:
+2. The ideal clothing choice depends on the average temperature:
    - Below 32°F: 'Warm' clothing.
    - Between 32°F and 70°F: 'Medium' clothing.
    - Above 70°F: 'Summer' clothing.
@@ -129,12 +128,11 @@ Consider the following data about weather conditions for the last 7 days:
 - Weather Conditions: ['Rain', 'Rain', 'Sunny', 'Sunny', 'Rain', 'Sunny', 'Snow']
 
 Rules:
-1. If the temperature is above 50°F, it cannot be snowing. In such cases, snow should be replaced with rain.
-2. The ideal accessory choice depends on the most common weather condition:
+1. The ideal accessory choice depends on the most common weather condition:
    - If it's mostly sunny, pick 'Sunscreen'.
    - If it's mostly raining, pick 'Umbrella'.
    - If it's mostly snowing, pick 'Snow Boots'.
-3. The ideal clothing choice depends on the average temperature:
+2. The ideal clothing choice depends on the average temperature:
    - Below 32°F: 'Warm' clothing.
    - Between 32°F and 70°F: 'Medium' clothing.
    - Above 70°F: 'Summer' clothing.
@@ -196,12 +194,11 @@ Consider the following data about weather conditions for the last 7 days:
 - Weather Conditions: ['Sunny', 'Sunny', 'Snow', 'Snow', 'Snow', 'Snow', 'Sunny']
 
 Rules:
-1. If the temperature is above 50°F, it cannot be snowing. In such cases, snow should be replaced with rain.
-2. The ideal accessory choice depends on the most common weather condition:
+1. The ideal accessory choice depends on the most common weather condition:
    - If it's mostly sunny, pick 'Sunscreen'.
    - If it's mostly raining, pick 'Umbrella'.
    - If it's mostly snowing, pick 'Snow Boots'.
-3. The ideal clothing choice depends on the average temperature:
+2. The ideal clothing choice depends on the average temperature:
    - Below 32°F: 'Warm' clothing.
    - Between 32°F and 70°F: 'Medium' clothing.
    - Above 70°F: 'Summer' clothing.
@@ -271,12 +268,11 @@ Consider the following data about weather conditions for the last 7 days:
 - Weather Conditions: ['Snow', 'Sunny', 'Sunny', 'Rain', 'Snow', 'Snow', 'Sunny']
 
 Rules:
-1. If the temperature is above 50°F, it cannot be snowing. In such cases, snow should be replaced with rain.
-2. The ideal accessory choice depends on the most common weather condition:
+1. The ideal accessory choice depends on the most common weather condition:
    - If it's mostly sunny, pick 'Sunscreen'.
    - If it's mostly raining, pick 'Umbrella'.
    - If it's mostly snowing, pick 'Snow Boots'.
-3. The ideal clothing choice depends on the average temperature:
+2. The ideal clothing choice depends on the average temperature:
    - Below 32°F: 'Warm' clothing.
    - Between 32°F and 70°F: 'Medium' clothing.
    - Above 70°F: 'Summer' clothing.
@@ -344,12 +340,11 @@ Consider the following data about weather conditions for the last 7 days:
 - Weather Conditions: ['Rain', 'Rain', 'Rain', 'Rain', 'Rain', 'Sunny', 'Snow']
 
 Rules:
-1. If the temperature is above 50°F, it cannot be snowing. In such cases, snow should be replaced with rain.
-2. The ideal accessory choice depends on the most common weather condition:
+1. The ideal accessory choice depends on the most common weather condition:
    - If it's mostly sunny, pick 'Sunscreen'.
    - If it's mostly raining, pick 'Umbrella'.
    - If it's mostly snowing, pick 'Snow Boots'.
-3. The ideal clothing choice depends on the average temperature:
+2. The ideal clothing choice depends on the average temperature:
    - Below 32°F: 'Warm' clothing.
    - Between 32°F and 70°F: 'Medium' clothing.
    - Above 70°F: 'Summer' clothing.
