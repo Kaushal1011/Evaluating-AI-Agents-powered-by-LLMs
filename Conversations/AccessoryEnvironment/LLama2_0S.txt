@@ -1,0 +1,27 @@
+Consider the following data about weather conditions for the last 7 days:
+
+- Temperatures (in °F): [22.83072037402046, -5.943323548806106, 18.04667056770205, -3.458765519049905, -19.762368035884755, 36.123639166518316, 0.1366724597284943]
+- Weather Conditions: ['Snow', 'Snow', 'Snow', 'Snow', 'Snow', 'Sunny', 'Snow']
+
+Based on the above data, what should be the ideal accessory (Sunscreen, Umbrella, Snowshows) and clothing (Warm, Medium, Summer) choice that I should make tommorow? Please explain your reasoning
+
+
+AI
+Based on the weather conditions you provided, it is recommended to wear warm clothing tomorrow. The temperature range from -3°C to 18°C indicates a cold and potentially snowy day, so it's best to dress in layers to stay warm. Additionally, as there is snow forecasted, it would be wise to bring an umbrella to protect yourself from the elements.
+
+As for accessories, sunscreen may not be necessary given the overcast and snowy conditions, but a hat and gloves could be useful to keep your head and hands warm. Overall, dressing in warm clothing and bringing an umbrella will help you prepare for the potentially cold and snowy weather tomorrow.
+
+
+USER
+Consider the following data about weather conditions for the last 7 days:
+
+- Temperatures (in °F): [41.98912734745139, 76.41813000021108, 100.08244386620807, 98.8189150803761, 62.20653504258892, 66.98685226289354, 107.33065166168099]
+- Weather Conditions: ['Rain', 'Rain', 'Rain', 'Rain', 'Rain', 'Rain', 'Rain']
+
+Based on the above data, what should be the ideal accessory (Sunscreen, Umbrella, Snowshows) and clothing (Warm, Medium, Summer) choice that I should make tommorow? Please explain your reasoning
+
+
+AI
+Based on the weather conditions you provided, it is recommended to wear light and breathable clothing tomorrow. The temperature range from 42°F to 107°F indicates a warm and potentially humid day, so it's best to dress in layers to stay comfortable. Additionally, as it will be raining, an umbrella would be a good accessory to have.
+
+As for clothing, a medium weight outfit would be appropriate, as the temperatures are not extreme, but still warm. A lightweight rain jacket or poncho could also be useful to keep you dry. Overall, dressing in layers and bringing an umbrella will help you prepare for the potentially rainy weather tomorrow.

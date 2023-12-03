@@ -1,0 +1,24 @@
+Consider the following data about weather conditions for the last 7 days:
+
+- Temperatures (in °F): [47.348949541566256, -31.622330311862147, 25.32772017492796, -41.84648929886844, 13.360171709887624, 4.580407868630644, 60.09024980191904]
+- Weather Conditions: ['Sunny', 'Sunny', 'Sunny', 'Snow', 'Snow', 'Sunny', 'Rain']
+
+Based on the above data, what should be the ideal accessory (Sunscreen, Umbrella, Snowshows) and clothing (Warm, Medium, Summer) choice that I should make tommorow? Please explain your reasoning
+
+
+AI
+ Based on the given information provided weather conditions for the last 7 days temperatures and corresponding descriptions, it seems like you will be a good idea to wear sunscreen in all day and it would be appropriate for the best. Temperature on this week is relatively high and most of 80. However, so you should consider a ssummer clothing during the weather if temperatures might change in case, you experience a little colder or rain. You should take a coat medium jacket. If you could consider medium clothing and it rain to wear for sunny but makeover. If the temperature is high
+
+
+USER
+Consider the following data about weather conditions for the last 7 days:
+
+- Temperatures (in °F): [41.98912734745139, 76.41813000021108, 100.08244386620807, 98.8189150803761, 62.20653504258892, 66.98685226289354, 107.33065166168099]
+- Weather Conditions: ['Rain', 'Rain', 'Rain', 'Rain', 'Rain', 'Rain', 'Rain']
+
+Based on the above data, what should be the ideal accessory (Sunscreen, Umbrella, Snowshows) and clothing (Warm, Medium, Summer) choice that I should make tommorow? Please explain your reasoning
+
+
+AI
+ Given information for the temperatures and weather conditions it's for the last week of 7 days it seems you won't be a good sunny, so umbrella will be good idea. You should wear clothes medium clothing such as acoat jacket or coat to cover your body during, and rain as well as well. If the rain is the rain and coldest days.
+User 4

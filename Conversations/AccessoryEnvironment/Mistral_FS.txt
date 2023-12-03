@@ -1,0 +1,43 @@
+Consider the following data about weather conditions for the last 7 days:
+
+- Temperatures (in °F): [22.83072037402046, -5.943323548806106, 18.04667056770205, -3.458765519049905, -19.762368035884755, 36.123639166518316, 0.1366724597284943]
+- Weather Conditions: ['Snow', 'Snow', 'Snow', 'Snow', 'Snow', 'Sunny', 'Snow']
+
+Rules:
+1. The ideal accessory choice depends on the most common weather condition:
+   - If it's mostly sunny, pick 'Sunscreen'.
+   - If it's mostly raining, pick 'Umbrella'.
+   - If it's mostly snowing, pick 'Snow Boots'.
+2. The ideal clothing choice depends on the average temperature:
+   - Below 32°F: 'Warm' clothing.
+   - Between 32°F and 70°F: 'Medium' clothing.
+   - Above 70°F: 'Summer' clothing.
+
+Based on the above data and rules, what should be the ideal accessory and clothing choice? Please explain your reasoning.
+
+
+AI
+ Based on THE data provided information, the ideal choice for the temperature range is mostly sunny, which corresponds to "sun"Sunscreen". Thus, so the ideal choice would be "suntm"sun". The clothing". Temperatures between 270 and 3°F would correspond to "medium clothing. 1, while 4 is above 0F correspond to "sum"mer". If its" clothing. Therefore, the ideal choice for a is medium"Tshirt and shorts with sleeves
+
+
+USER
+Consider the following data about weather conditions for the last 7 days:
+
+- Temperatures (in °F): [11.002115736259952, 25.77717989852053, 45.70660154559317, -1.4454765067394746, 4.221416299114523, 88.05696430588628, 61.881709123364345]
+- Weather Conditions: ['Sunny', 'Sunny', 'Sunny', 'Snow', 'Snow', 'Sunny', 'Sunny']
+
+Rules:
+1. The ideal accessory choice depends on the most common weather condition:
+   - If it's mostly sunny, pick 'Sunscreen'.
+   - If it's mostly raining, pick 'Umbrella'.
+   - If it's mostly snowing, pick 'Snow Boots'.
+2. The ideal clothing choice depends on the average temperature:
+   - Below 32°F: 'Warm' clothing.
+   - Between 32°F and 70°F: 'Medium' clothing.
+   - Above 70°F: 'Summer' clothing.
+
+Based on the above data and rules, what should be the ideal accessory and clothing choice? Please explain your reasoning.
+
+
+AI
+ Based on information provided, the ideal condition for mostly sunny, which is the "sun", thus" pick". Temperatures 3° is below2 correspond to medium, below,"m "arm". The ideal clothing." Therefore be arm and above 0-degree clothing. If temperature to "shirt with shorts". However, if 760 degree, "medium" shirt". And 89 medium clothing" longsleeverses.

@@ -1,0 +1,76 @@
+Question: 
+
+Consider the following data about weather conditions for the last 7 days:
+
+- Temperatures (in °F): [22.83072037402046, -5.943323548806106, 18.04667056770205, -3.458765519049905, -19.762368035884755, 36.123639166518316, 0.1366724597284943]
+- Weather Conditions: ['Snow', 'Snow', 'Snow', 'Snow', 'Snow', 'Sunny', 'Snow']
+
+Rules:
+1. The ideal accessory choice depends on the most common weather condition:
+   - If it's mostly sunny, pick 'Sunscreen'.
+   - If it's mostly raining, pick 'Umbrella'.
+   - If it's mostly snowing, pick 'Snow Boots'.
+2. The ideal clothing choice depends on the average temperature:
+   - Below 32°F: 'Warm' clothing.
+   - Between 32°F and 70°F: 'Medium' clothing.
+   - Above 70°F: 'Summer' clothing.
+
+Based on the above data and rules, what should be the ideal accessory and clothing choice? Please explain your reasoning.
+
+Answer:
+
+To determine the ideal accessory and clothing choice based on the given data and rules, we'll analyze the weather conditions and temperatures:
+
+1. **Most Common Weather Condition**:
+   - The weather conditions provided are ['Snow', 'Snow', 'Snow', 'Snow', 'Snow', 'Sunny', 'Snow'].
+   - Out of 7 days, 'Snow' is the condition for 6 days.
+   - Therefore, the most common weather condition is 'Snow'.
+
+2. **Ideal Accessory Choice**:
+   - According to Rule 1, since it's mostly snowing, the ideal accessory is 'Snow Boots'.
+
+3. **Average Temperature**:
+   - The temperatures provided are [22.83, -5.94, 18.05, -3.46, -19.76, 36.12, 0.14].
+   - To find the average, we sum these temperatures: 22.83 - 5.94 + 18.05 - 3.46 - 19.76 + 36.12 + 0.14 = 48.08°F.
+   - The average temperature is 48.08 / 7 ≈ 6.87°F.
+
+4. **Ideal Clothing Choice**:
+   - According to Rule 2, since the average temperature (6.87°F) is below 32°F, the ideal clothing choice is 'Warm'.
+
+In conclusion, based on the most common weather condition and the average temperature, the ideal accessory choice is 'Snow Boots', and the ideal clothing choice is 'Warm'.
+
+Question:
+
+Consider the following data about weather conditions for the last 7 days:
+
+- Temperatures (in °F): [71.19273224342251, 109.21770503502734, 42.119324081313735, 41.021006047417245, 99.09495798167362, 30.703287405253636, 38.7840411384268]
+- Weather Conditions: ['Rain', 'Rain', 'Sunny', 'Sunny', 'Rain', 'Sunny', 'Snow']
+
+Rules:
+1. The ideal accessory choice depends on the most common weather condition:
+   - If it's mostly sunny, pick 'Sunscreen'.
+   - If it's mostly raining, pick 'Umbrella'.
+   - If it's mostly snowing, pick 'Snow Boots'.
+2. The ideal clothing choice depends on the average temperature:
+   - Below 32°F: 'Warm' clothing.
+   - Between 32°F and 70°F: 'Medium' clothing.
+   - Above 70°F: 'Summer' clothing.
+
+Based on the above data and rules, what should be the ideal accessory and clothing choice? Please explain your reasoning.
+
+Answer:
+
+
+AI
+  Determine the ideal and choice based on rules weather condition weathers:
+
+**Most common**: The conditions are 'Rain, Sunny', 'Sunny', 'Sun' - 2 out of 5 days out of 7, therefore, the most are Rainy.
+**
+** Access = Rory: Since itraining, access is the idealClothing
+**Temperature
+** : temperatures [138,34,6,9,4, 92,6,7,5,9,8,2,6,3,8] - sum 3 + these13 +4 +9 + 4 +0 +9 + 9 +5 + 8 =2.20 +8 - 20 = 19°
+** Average: average temperature* 44°7.5/75°F
+**
+Choice : since 20 is below 3 andF, so the clothing
+Clothing is 'rain
+**Mediton**Conclusion Based weather's ideal choice: rainy' and clothing, Clothing'.
