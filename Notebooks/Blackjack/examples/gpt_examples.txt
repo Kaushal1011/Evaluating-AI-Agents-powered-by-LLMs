@@ -1,0 +1,24 @@
+User:
+You are playing a game of blackjack.
+You have a hand which totals 13 .
+The dealer has a hidden card and a card visible to you. The visible card is 10.
+Should you hit or stand? After thinking, give me either hit or stand in a new line.
+
+
+Assistant:
+Let's think step by step
+In blackjack, the goal is to have a hand value as close to 21 as possible without going over, while still having a higher total than the dealer. When you have a hand totaling 13 and the dealer shows a 10, you are in a tricky situation. The dealer's 10 is a strong starting card, and the dealer's chances of ending up with a high hand are significant.
+
+1. **Assess Your Hand**: You have a total of 13, which is a weak hand. If the dealer's hidden card (the hole card) is a 7 or higher, they will have a total of 17 or more and will stand, which means your 13 will not be enough to win.
+
+2. **Consider the Dealer's Card**: The dealer shows a 10, which is one of the strongest cards for the dealer to start with. Statistically, there is a high probability that the dealer's hole card will give them a total of 17 or more, making it likely that they will beat your 13.
+
+3. **Evaluate the Risk of Busting**: If you hit, any card valued at 9 or higher will cause you to bust (go over 21). There are 4 cards of each rank in the deck, so with 13 in hand, you have a 4/13 or roughly 31% chance of busting with a single hit.
+
+4. **Consider the Odds**: If you stand, you are hoping the dealer's hole card is low and that they will bust when taking additional cards. However, since the dealer has a 10 showing, the odds are against this scenario.
+
+5. **Basic Strategy**: According to basic blackjack strategy, which is a mathematically proven method to minimize the house edge, you should hit when your hand is between 12 and 16 (inclusive) if the dealer shows a 7 or higher. This is because standing on such a low total will most likely result in a loss, as the dealer has a good chance of getting a total of 17-21.
+
+Given all these considerations, the most strategically sound decision would be to take a hit. You are trying to improve your hand, knowing that standing is likely to result in a loss unless the dealer busts.
+
+Hit
