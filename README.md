@@ -1,4 +1,4 @@
-# LLM-Decision-Making in Game Environments
+# LLMAO: Evaluating AI Agents powered by LLMs
 
 ## Overview
 This project explores the integration of Large Language Models (LLMs) in decision-making within various game environments. We investigate how models like GPT-4, GPT-3.5, LLama, Mistral, and Vicuna perform in complex scenarios compared to traditional AI agents. Our focus is on environments such as Blackjack, Grid Navigation, Accessory Environment, and Traffic Signal Evaluation, examining the efficacy of LLMs in these diverse settings.
